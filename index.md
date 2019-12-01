@@ -2,7 +2,7 @@
 
 안녕하세요. 강원대학교 방송영상학과 2학년 이건엽 입니다. 학생겸 직장인으로 유튜브 편집자도 겸하고 있습니다. 필요하시면 Gunyup19@naver.com으로 연락주시면 감사하겠습니다.
 Hello, My name is GunYup Lee I belong to Kangwon National University broadcast media department i'm also a YouTube editor. Let me know if you need some help. Thank you!
-<img width="50" height="50"  src=C:\Users\LDM\Desktop>
+<img width="100" height="100"  src=C:\Users\LDM\Desktop>
 
 ### Gunyup Ability and Career
 
