@@ -26,7 +26,7 @@ Hello, My name is GunYup Lee I belong to Kangwon National University broadcast m
 
 ### Support 한번씩 놀러가보세요~
 
-(https://sandbox.co.kr/index.html)
+https://sandbox.co.kr/index.html
 (https://www.youtube.com/channel/UC2z7Vj0qpcjIsAEHwOE1-NA)
 (https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w)
 (https://www.youtube.com/channel/UCjZy8afeI-58sPLgJIOmecg)
