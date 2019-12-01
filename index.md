@@ -1,6 +1,3 @@
-
-  ![20190914_130732](https://user-images.githubusercontent.com/58144363/69920309-bd971a80-14c9-11ea-89c0-77e1b5ccd392.jpg)
-
 ## Welcome to Gunyup Pages!!
 
 안녕하세요. 강원대학교 방송영상학과 2학년 이건엽 입니다. 학생겸 직장인으로 유튜브 편집자도 겸하고 있습니다. 필요하시면 Gunyup19@naver.com으로 연락주시면 감사하겠습니다.
