@@ -1,9 +1,5 @@
-##
 
-<div>
   ![20190914_130732](https://user-images.githubusercontent.com/58144363/69920309-bd971a80-14c9-11ea-89c0-77e1b5ccd392.jpg)
-
-</div>  
 
 ## Welcome to Gunyup Pages!!
 
@@ -26,11 +22,11 @@ Hello, My name is GunYup Lee I belong to Kangwon National University broadcast m
 
 ### Support 한번씩 놀러가보세요~
 
-https://sandbox.co.kr/index.html
-(https://www.youtube.com/channel/UC2z7Vj0qpcjIsAEHwOE1-NA)
-(https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w)
-(https://www.youtube.com/channel/UCjZy8afeI-58sPLgJIOmecg)
-(https://www.youtube.com/channel/UC6xWZn2suKPqAQkidOiMeHg)
-(https://www.youtube.com/user/jhk0408)
-(https://www.youtube.com/channel/UCmCNgLHdknmCdQelpwxQvvg)
-(https://www.youtube.com/user/Bjcherrypach)
+<https://sandbox.co.kr/index.html>
+<https://www.youtube.com/channel/UC2z7Vj0qpcjIsAEHwOE1-NA>
+<https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w>
+<https://www.youtube.com/channel/UCjZy8afeI-58sPLgJIOmecg>
+<https://www.youtube.com/channel/UC6xWZn2suKPqAQkidOiMeHg>
+<https://www.youtube.com/user/jhk0408>
+<https://www.youtube.com/channel/UCmCNgLHdknmCdQelpwxQvvg>
+<https://www.youtube.com/user/Bjcherrypach>
